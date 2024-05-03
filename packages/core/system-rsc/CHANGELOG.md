@@ -1,5 +1,11 @@
 # @nextui-org/system-rsc
 
+## 2.1.2
+
+### Patch Changes
+
+- [#2915](https://github.com/nextui-org/nextui/pull/2915) [`e3afa4789`](https://github.com/nextui-org/nextui/commit/e3afa4789a1ac0fa929b2acaca5bd9c520567ab8) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - The `cn` utility was moved the `theme` package and updated to support NextUI custom classes.
+
 ## 2.1.1
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @nextui-org/theme
 
+## 2.2.4
+
+### Patch Changes
+
+- [#2915](https://github.com/nextui-org/nextui/pull/2915) [`e3afa4789`](https://github.com/nextui-org/nextui/commit/e3afa4789a1ac0fa929b2acaca5bd9c520567ab8) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - The `cn` utility was moved the `theme` package and updated to support NextUI custom classes.
+
+- [#2906](https://github.com/nextui-org/nextui/pull/2906) [`c83ff382b`](https://github.com/nextui-org/nextui/commit/c83ff382b9e5deaa08ed7e64eee484cc4904704d) Thanks [@ShrinidhiUpadhyaya](https://github.com/ShrinidhiUpadhyaya)! - Fixed hiding of unavailable dates in RangeCalendar (#2890)
+
+- [#2781](https://github.com/nextui-org/nextui/pull/2781) [`648edad77`](https://github.com/nextui-org/nextui/commit/648edad77ea6265baecbc8cd7d1caee5a983da7c) Thanks [@mrbadri](https://github.com/mrbadri)! - Fixed incorrect margin on labels for RTL required inputs. (#2780)
+
 ## 2.2.3
 
 ### Patch Changes

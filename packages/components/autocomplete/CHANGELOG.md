@@ -1,5 +1,20 @@
 # @nextui-org/autocomplete
 
+## 2.0.17
+
+### Patch Changes
+
+- [#2889](https://github.com/nextui-org/nextui/pull/2889) [`aba1716ed`](https://github.com/nextui-org/nextui/commit/aba1716edc2a85c94e6baeb4acc481f67589d002) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Update React Aria packages
+
+- Updated dependencies []:
+  - @nextui-org/button@2.0.32
+  - @nextui-org/input@2.1.21
+  - @nextui-org/listbox@2.1.20
+  - @nextui-org/popover@2.1.22
+  - @nextui-org/scroll-shadow@2.1.16
+  - @nextui-org/aria-utils@2.0.19
+  - @nextui-org/spinner@2.0.29
+
 ## 2.0.16
 
 ### Patch Changes

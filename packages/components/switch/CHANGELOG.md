@@ -1,5 +1,11 @@
 # @nextui-org/switch
 
+## 2.0.29
+
+### Patch Changes
+
+- [#2924](https://github.com/nextui-org/nextui/pull/2924) [`9acf3eada`](https://github.com/nextui-org/nextui/commit/9acf3eada03af911dba42198a83e8ea4b453a93a) Thanks [@wingkwong](https://github.com/wingkwong)! - Fixed react-hook-form uncontrolled switch component
+
 ## 2.0.28
 
 ### Patch Changes

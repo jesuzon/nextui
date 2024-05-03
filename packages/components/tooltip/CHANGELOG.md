@@ -1,5 +1,13 @@
 # @nextui-org/tooltip
 
+## 2.0.34
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/aria-utils@2.0.19
+  - @nextui-org/framer-utils@2.0.19
+
 ## 2.0.33
 
 ### Patch Changes

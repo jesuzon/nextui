@@ -1,5 +1,19 @@
 # @nextui-org/date-picker
 
+## 2.0.8
+
+### Patch Changes
+
+- [#2889](https://github.com/nextui-org/nextui/pull/2889) [`aba1716ed`](https://github.com/nextui-org/nextui/commit/aba1716edc2a85c94e6baeb4acc481f67589d002) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Update React Aria packages
+
+- [#2908](https://github.com/nextui-org/nextui/pull/2908) [`2a2a0692c`](https://github.com/nextui-org/nextui/commit/2a2a0692ca81ea575d2328d933d775ccbd43ac1c) Thanks [@wingkwong](https://github.com/wingkwong)! - keep date picker style consistent for different variants (#2901)
+
+- Updated dependencies [[`aba1716ed`](https://github.com/nextui-org/nextui/commit/aba1716edc2a85c94e6baeb4acc481f67589d002), [`c83ff382b`](https://github.com/nextui-org/nextui/commit/c83ff382b9e5deaa08ed7e64eee484cc4904704d)]:
+  - @nextui-org/calendar@2.0.5
+  - @nextui-org/date-input@2.0.4
+  - @nextui-org/button@2.0.32
+  - @nextui-org/popover@2.1.22
+
 ## 2.0.7
 
 ### Patch Changes

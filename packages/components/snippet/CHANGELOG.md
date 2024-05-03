@@ -1,5 +1,13 @@
 # @nextui-org/snippet
 
+## 2.0.36
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/button@2.0.32
+  - @nextui-org/tooltip@2.0.34
+
 ## 2.0.35
 
 ### Patch Changes

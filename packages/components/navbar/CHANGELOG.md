@@ -1,5 +1,12 @@
 # @nextui-org/navbar
 
+## 2.0.31
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/framer-utils@2.0.19
+
 ## 2.0.30
 
 ### Patch Changes
